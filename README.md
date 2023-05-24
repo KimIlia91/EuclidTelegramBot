@@ -12,6 +12,5 @@
 ![2023-05-24_09-45-26](https://github.com/KimIlia91/EuclidTelegramBot/assets/120381464/63724242-a424-4bc9-9f60-dc2c2cdd644a)
 ### Связующая таблица чатов и результатов
 ![2023-05-24_09-46-00](https://github.com/KimIlia91/EuclidTelegramBot/assets/120381464/13d20851-5f25-4a34-b64b-cebec0c95ead)
-
-![2023-05-24_10-23-25](https://github.com/KimIlia91/EuclidTelegramBot/assets/120381464/9f0d526b-d373-4c6f-bd2a-7556a5137541)
+### Диарграмма связи таблиц
 ![2023-05-24_10-26-13](https://github.com/KimIlia91/EuclidTelegramBot/assets/120381464/da1fc904-329c-401a-b123-1f5b36eec308)
