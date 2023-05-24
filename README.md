@@ -1,5 +1,6 @@
 # Euclid Telegram Bot
 Разработать программу калькулятора с поддержкой ввода арифметического выражения.
+
 [Ссылка](https://github.com/TimelySkills/tasks2023-1/blob/main/backend.md) на задание.
 # Примеры переписки с ботом
 ![2023-05-24_08-26-06](https://github.com/KimIlia91/EuclidTelegramBot/assets/120381464/e2260f3c-1ef4-46d7-9ce5-c19f557c0b8c)
